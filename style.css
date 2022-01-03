@@ -1,0 +1,205 @@
+.App{
+    background-color: #f8eeed;
+    padding-bottom: 10px;
+}
+.app--whole {
+    
+    font-family: 'Hammersmith One', sans-serif;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.header {
+    background: #ffcec6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    
+    color: #ff9156;
+    border-radius: 9px;
+}
+
+.header:hover {
+    box-shadow: 0 8px 16px 0 #ff9156;
+  }
+
+.header--name{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size:  20px;
+    margin: auto;
+    padding-left: 5px;
+}
+
+
+
+
+
+.blank--one{
+    margin:auto;
+    
+}
+.blank-two{
+    margin:auto;
+}
+
+
+.green{
+    color: #e6973e;
+}
+
+.nav--social{
+    color: #e6973e;
+    margin: auto;
+    align-items: right;
+}
+
+
+
+
+.twitter{
+    margin: 10px;
+    color: #e6973e;
+}
+.github{
+    margin: 10px;
+}
+.linkedin{
+    margin: 10px;
+}
+.instagram{
+    margin: 10px;
+}
+
+.body{
+    text-align: left;
+}
+
+.about--us{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 36px;
+    font-size: 36px; 
+    margin:auto;
+    
+}
+.about--work{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+    font-size: 18px; 
+    margin:auto;
+    font-weight:lighter;
+    
+}
+.about--experience{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+    font-size: 18px; 
+    margin:auto;
+    font-weight:lighter;
+    
+}
+
+.about--photo{
+    height:400px;
+    width:400px;
+    align-items: right;
+    margin:aut0;
+}
+
+.about--span--text{
+  padding: 5px;
+  padding-top:10px;
+  color:rgba(65, 61, 61, 0.788);
+  padding-left: 20px;
+  text-align: left;
+  margin:auto;
+  font-size: 14px;
+}
+
+.about--role{
+    padding: 5px;
+    padding-top:10px;
+    color:rgba(65, 61, 61, 0.788);
+    padding-left: 20px;
+    text-align: left;
+    margin:auto;
+    font-size: 16px;
+}
+.about--time{
+    padding: 5px;
+    padding-top:2px;
+    color:black;
+    padding-left: 20px;
+    text-align: left;
+    margin:auto;
+    font-size: 14px;
+}
+
+.about--span--img{
+    float: right;
+  
+  padding: 5px;
+}
+.button--space{
+    padding:20px;
+}
+.button--cv{
+    color:rgb(3, 3, 3);
+    background: #ffcec6;
+    border-color: #ffcec6;
+    padding: 10px 50px;
+    border-width: 0cm;
+    border-radius: 8px;
+    align-self: flex-start;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-top: 30px;
+}
+
+.button--cv:hover {
+    box-shadow: 0 3px 3px 0 #727070;
+    background: #ff9156;
+    border-color: #ff9156;
+
+}
+
+.skills{
+    text-align: left;
+    padding-left:10px;
+      
+      
+}
+.skill{
+    text-align: left;
+    margin-left: 10px;
+    padding: 5px;
+    background-color:#ffcec6 ;
+    border-radius: 5px;
+}
+
+.footer {
+    background: #ffcec6;
+    margin-top: 20px;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    
+    color: black;
+    border-radius: 9px;
+    
+}
+
+.footer--text{
+    padding-left: 40px;
+}
